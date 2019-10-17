@@ -8,10 +8,11 @@ class EmailAddressParser
   
   def initialize(email_addresses)
     
-    @email_addresses = 
+    @email_addresses = email_addresses
     
   end #initialize
   
   def parse
+    
   end
 end
